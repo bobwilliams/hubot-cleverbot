@@ -1,6 +1,6 @@
 hubot-cleverbot
 ===============
 
-A simple hubot script for chatting with cleverbot
+A simple node.js / hubot script for chatting with cleverbot
 
 Enjoy!
